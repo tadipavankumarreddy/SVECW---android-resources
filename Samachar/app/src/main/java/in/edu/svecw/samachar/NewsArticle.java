@@ -1,6 +1,8 @@
 package in.edu.svecw.samachar;
 
-public class NewsArticle {
+import java.io.Serializable;
+
+public class NewsArticle implements Serializable {
     String title;
     String content;
     String author;

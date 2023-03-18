@@ -1,6 +1,7 @@
 package in.edu.svecw.samachar;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -52,6 +53,17 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.NewsViewHolder
             super(itemView);
             news_poster = itemView.findViewById(R.id.imageView);
             news_title = itemView.findViewById(R.id.news_title);
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    int p = getAdapterPosition();
+                    Intent i = new Intent(context,DetailsActivity.class);
+                    i.putExtra("KUY",articles.get(p));
+                    i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    context.startActivity(i);
+                }
+            });
         }
     }
 }
