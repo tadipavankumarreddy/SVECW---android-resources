@@ -8,3 +8,7 @@ Bootcamp Video Links Day 1 ->
 - [Second Half](https://youtu.be/r23UPW7OA1Q)
 
 [URL](https://inshorts.deta.dev/news?category=entertainment)
+
+
+Inshorts News Application
+- [Part 1](https://www.youtube.com/watch?v=A8HvhQ4HnAk&t=4s) setting up the project, Doing networking and showing the results to the user.
