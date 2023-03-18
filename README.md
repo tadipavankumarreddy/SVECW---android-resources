@@ -17,9 +17,9 @@ Inshorts News Application
 
 - [part 3](https://youtu.be/oH-9kXdEjH0)
 
--[Part 4](https://youtu.be/x5dlotdoL-0)
+- [Part 4](https://youtu.be/x5dlotdoL-0)
 
--[Part 5](https://youtu.be/3PGZdF5z_mU)
+- [Part 5](https://youtu.be/3PGZdF5z_mU)
 
 Code
 
