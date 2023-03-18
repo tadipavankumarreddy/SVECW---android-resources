@@ -13,7 +13,7 @@ Bootcamp Video Links Day 1 ->
 Inshorts News Application
 - [Part 1](https://www.youtube.com/watch?v=A8HvhQ4HnAk&t=4s) setting up the project, Doing networking and showing the results to the user.
 
-- [Part 2]()
+- [Part 2](https://www.youtube.com/watch?v=acZ_D_BC3ug)
 
 Code
 
