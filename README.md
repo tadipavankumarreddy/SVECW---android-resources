@@ -15,6 +15,12 @@ Inshorts News Application
 
 - [Part 2](https://www.youtube.com/watch?v=acZ_D_BC3ug)
 
+- [part 3](https://youtu.be/oH-9kXdEjH0)
+
+-[Part 4](https://youtu.be/x5dlotdoL-0)
+
+-[Part 5](https://youtu.be/3PGZdF5z_mU)
+
 Code
 
 ```java
